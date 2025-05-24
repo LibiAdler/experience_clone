@@ -1,1 +1,2 @@
-Me as commit 1.
+Me - as commit 1.
+He - as commit 2.
